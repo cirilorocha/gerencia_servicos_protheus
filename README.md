@@ -12,6 +12,9 @@ O **Gerenciador de Serviços TOTVS / Fluig** permite identificar os serviços re
 
 Por meio de uma interface de seleção baseada no `Out-GridView`, é possível escolher os serviços que serão afetados sem precisar executar cada comando manualmente.
 
+<img width="839" height="302" alt="image" src="https://github.com/user-attachments/assets/352e4348-b65d-4f95-b2bb-27446c2c087f" />
+
+
 As principais operações disponíveis são:
 
 * **Parar serviços**
